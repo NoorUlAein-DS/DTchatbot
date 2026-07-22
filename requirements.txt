@@ -1,3 +1,5 @@
 streamlit
 langchain-groq
 langchain-core
+joblib
+scikit-learn
